@@ -65,7 +65,18 @@ The guideline has been validated by an AI auditor at a large international audit
 
 For background on where AI is applied across the core business areas of commercial banks, see the companion repository [Applications-of-Artificial-Intelligence-in-commercial-banks-A-research-agenda-for-behavioral-finance](https://github.com/FlorianKoenigstorfer/Applications-of-Artificial-Intelligence-in-commercial-banks-A-research-agenda-for-behavioral-finance).
 
-## Citation
+## References
+
+Königstorfer, F., & Thalmann, S. (2022). AI Documentation: A path to accountability. Journal of Responsible Technology, 11, 100043.
+
+Königstorfer, F., & Thalmann, S. (2021). Software documentation is not enough! Requirements for the documentation of AI. Digital Policy, Regulation and Governance, 23(5), 475-488.
+
+Königstorfer, F. (2024). A comprehensive review of techniques for documenting artificial intelligence. Digital Policy, Regulation and Governance, 26(5), 545-559.
+
+Königstorfer, F., Haberl, A., Kowald, D., Ross-Hellauer, T., & Thalmann, S. (2024). Black box or open science? A study on reproducibility in AI development papers. In Proceedings of The Hawaii International Conference on System Sciences, HICSS (Vol. 24).
+
+Koenigstorfer, F., Krieger, F. F. A., & Thalmann, S. (2024). Bridging AI Development and Compliance: Design Principles for the Documentation of AI.
+
 
 If you use the guideline, the cover sheet, or any of the papers in academic work, please cite the corresponding publication. BibTeX entries can be retrieved from the [Google Scholar profile](https://scholar.google.com/citations?user=naV-pgoAAAAJ&hl=en&oi=ao) linked above or from the publishers' websites.
 
