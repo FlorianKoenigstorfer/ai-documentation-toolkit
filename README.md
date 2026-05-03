@@ -84,8 +84,6 @@ If you use the guideline, the cover sheet, or any of the papers in academic work
 
 The PDFs in this repository are subject to the copyright of their respective publishers (Emerald, Elsevier, AIS, IEEE/HICSS). They are included here in the form permitted by each publisher's author self-archiving policy. Please consult the original publication for licensing terms before redistributing.
 
-The guideline and cover sheet templates may be used and adapted for academic and professional purposes with attribution to Königstorfer & Thalmann (2024), "Bridging AI Development and Compliance: Design Principles for the Documentation of AI", ECIS 2024.
-
 ## Contact
 
 For questions about the research or the templates, please open an issue on this repository or reach out via E-Mail to florian.koenigstorfer.fr@gmail.com .
